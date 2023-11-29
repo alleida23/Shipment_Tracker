@@ -1,0 +1,19 @@
+# Ignore API authentication file
+api_auth.txt
+
+# Ignore local paths file
+paths.txt
+
+# Ignore test files
+Testsinmacro.xlsx
+Testsinmacro_2.xlsx
+
+# Ignore all Excel files in folder 'Shipment Data'
+Shipment\ Data*.xlsx
+
+# Ignore all Excel files in folder 'New Track Report'
+New\ Track\ Report*.xlsx
+
+# Ignore Chromedriver folder
+Chromedriver/
+chromedriver
