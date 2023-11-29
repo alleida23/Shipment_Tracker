@@ -3,7 +3,7 @@ api_auth.txt
 
 # Ignore json files
 paths.json
-urls.json
+carrier_urls.json
 
 # Ignore test files
 Testsinmacro.xlsx
