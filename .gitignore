@@ -2,7 +2,7 @@
 api_auth.txt
 
 # Ignore local paths file
-paths.txt
+paths.json
 
 # Ignore test files
 Testsinmacro.xlsx
