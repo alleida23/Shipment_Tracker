@@ -11,9 +11,9 @@ Testsinmacro_2.xlsx
 # Ignore all Excel files in folder 'Shipment Data'
 Shipment\ Data*.xlsx
 
-# Ignore all Excel files in folder 'New Track Report'
-New\ Track\ Report*.xlsx
+# Ignore all Excel files in folder 'Track Report'
+Track\ Report*.xlsx
 
-# Ignore Chromedriver folder
-Chromedriver/
+# Ignore ChromeDriver folder
+ChromeDriver/
 chromedriver
