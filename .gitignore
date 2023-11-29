@@ -4,6 +4,7 @@ api_auth.txt
 # Ignore json files
 paths.json
 carrier_urls.json
+api_data.json
 
 # Ignore test files
 Testsinmacro.xlsx
