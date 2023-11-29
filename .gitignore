@@ -18,3 +18,7 @@ Track\ Report*.xlsx
 # Ignore ChromeDriver folder
 ChromeDriver/
 chromedriver
+
+# Ignore all files starting with "function" (py files)
+function*
+
