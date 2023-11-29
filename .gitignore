@@ -1,8 +1,9 @@
 # Ignore API authentication file
 api_auth.txt
 
-# Ignore local paths file
+# Ignore json files
 paths.json
+urls.json
 
 # Ignore test files
 Testsinmacro.xlsx
