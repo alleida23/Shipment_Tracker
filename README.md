@@ -6,6 +6,8 @@
 
 The Shipment Tracker project, initiated in November 2023, has undergone significant evolution since its inception. Originally designed to address the manual tracking challenges associated with hundreds of shipments from TNT Express, the project has expanded its scope and capabilities.
 
+In anticipation of obtaining API access for each transportation company, the project is well-prepared to seamlessly incorporate them, further enhancing its tracking capabilities.
+
 ## Project Background
 
 The initial focus was on streamlining the labor-intensive process of manually tracking shipments from TNT. Employees had to navigate the TNT tracker page daily, searching for each shipment number to match client references with their company. This challenge sparked the creation of the TNT Shipment Tracker - Multiple Search.
@@ -17,7 +19,8 @@ The project now boasts an expanded scope, incorporating DHL tracking through API
 - **TNT Integration:** Web Scraping
 - **DHL Integration:** API
 
-![Shipment Tracker (2)](https://github.com/alleida23/Shipment_Tracker/assets/124719215/5657c5cb-6fca-4b40-a81a-de1ed3992915)
+
+![Shipment Tracker](https://github.com/alleida23/Shipment_Tracker/assets/124719215/f5dc4c37-21b3-4f94-bdb5-9a8dd4975cdd)
 
 
 ## Future Prospects
